@@ -1,0 +1,2 @@
+# Reflection-and-Refraction-of-Wave-in-Non-Ideal-medium
+Implemented a highly efficient implicit finite difference scheme for acoustic wave propagation based on the paper "A highly efficient implicit finite difference scheme for acoustic wave propagation" by Ajay Malkoti, Nimisha Vedanti, and Ram Krishna Tiwari. Utilized Python for implementation and successfully replicated the results of the paper.
